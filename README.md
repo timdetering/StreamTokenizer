@@ -71,3 +71,6 @@ Sample code:
 ------------
 See `Demo/` directory for a sample Visual Studio project which uses the `StreamTokenizer.cs` to parse a short stream with two styles of comments.
 
+To-do:
+----
+ * [ ] Upgrade project files to Visual Studio 2017.
